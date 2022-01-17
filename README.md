@@ -16,7 +16,7 @@ The purpose of this election analysis project is to assist Colorado Board of Ele
 
 ## Election Results
 
-![Election Result](Resources/Election Result.png)
+![Election_Result](Resources/Election_Result.png)
 
 The analysis of this election has showed there are total of 369,711 votes and the breakdown is as follow: 
 
@@ -32,7 +32,7 @@ In this election, there were three candidates and the total of votes they receiv
 - Diana DeGette received total of 272,892 votes which was 73.8% of the total. 
 - Raymon Anthony Doane received total of 11,606 votes which was 3.1% of the total. 
 
-The winner of the election was Diana DeGette received total of 272,892 votes which was 73.8% of the total.
+The winner of the election was Diana DeGette who received total of 272,892 votes, which was 73.8% of the total.
 
 ## Election-Audit Summary: 
 
